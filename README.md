@@ -23,4 +23,19 @@ Run The project
 pnpm run dev
 ```
 
+---
 
+## useful vscode extensions 
+```json
+{
+    "recommendations": [
+        "esbenp.prettier-vscode",
+        "antfu.icons-carbon",
+        "streetsidesoftware.code-spell-checker",
+        "naumovs.color-highlight",
+        "eamodio.gitlens",
+        "PKief.material-icon-theme",
+        "antfu.where-am-i"
+    ]
+}
+```
