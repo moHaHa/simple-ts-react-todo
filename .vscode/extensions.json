@@ -1,5 +1,11 @@
 {
     "recommendations": [
-        "esbenp.prettier-vscode"
+        "esbenp.prettier-vscode",
+        "antfu.icons-carbon",
+        "streetsidesoftware.code-spell-checker",
+        "naumovs.color-highlight",
+        "eamodio.gitlens",
+        "PKief.material-icon-theme",
+        "antfu.where-am-i"
     ]
 }
