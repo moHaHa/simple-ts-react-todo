@@ -3,7 +3,7 @@
 
 Install Typescript (skip if you already  have it )
 ```bash 
-npm install -g typescript
+npm i -g typescript
 
 ```
 
